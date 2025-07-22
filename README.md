@@ -16,3 +16,4 @@ Libraries Used: Pandas, os
 ├── process_f1_data.py # Main data processing script
 └── README.md # Project description and usage instructions
 ```
+<img width="1592" height="881" alt="image" src="https://github.com/user-attachments/assets/f11f9768-991b-4730-bdb7-bedf19e88c6b" />
